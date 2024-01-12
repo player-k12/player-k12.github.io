@@ -1,0 +1,7 @@
+{
+  "name": "onlinemc",
+  "description": "Play Minecraft in any browser!",
+  "repository": "https://github.com/radmanplays/radmanplays.github.io",
+  "logo": "https://raw.githubusercontent.com/radmanplays/radmanplays.github.io/main/icon.png",
+  "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-static" }]
+}
