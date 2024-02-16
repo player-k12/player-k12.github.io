@@ -184,9 +184,9 @@ body.select-version .play-button {
     display: block;
     margin:auto;
     margin-left: 0;
-    margin-right: auto
+    margin-right: auto;
     width: max-content;
-    max-width: 100%
+    max-width: 100%;
 }
 .mcbutton:hover {
     background-color: darkgray;
